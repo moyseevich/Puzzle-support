@@ -1,0 +1,27 @@
+.main{
+    max-width: 500px;
+    margin: auto;
+
+    flex-direction: column;
+    margin-top: 100px;
+
+}
+.title{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button{
+    padding: 10px;
+    background: #363636;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
